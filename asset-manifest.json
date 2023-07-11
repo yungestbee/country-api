@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/yungestbee.github.io/country-api/static/css/main.d28eee87.css",
+    "main.js": "/yungestbee.github.io/country-api/static/js/main.944af8b8.js",
+    "static/media/klipartz.com (2).png": "/yungestbee.github.io/country-api/static/media/klipartz.com (2).dbf047814f8f58c213f2.png",
+    "index.html": "/yungestbee.github.io/country-api/index.html",
+    "main.d28eee87.css.map": "/yungestbee.github.io/country-api/static/css/main.d28eee87.css.map",
+    "main.944af8b8.js.map": "/yungestbee.github.io/country-api/static/js/main.944af8b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d28eee87.css",
+    "static/js/main.944af8b8.js"
+  ]
+}
